@@ -1,0 +1,342 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/Thomas/MagicLeap/mlsdk/v0.19.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\unityProjects\\MagicLeapHaloProject\\Licence\\magicleaphaloproject.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "5e6274839a07dc0be92cf1555e019a14a413a9a9",
+   "xfrm_path": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/.out/.cache/debug_lumin_clang-3.8_aarch64/com.company.productname-b454d214493273af\\libc++_shared.so-ab6ce9db34bf344d",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "8973dd51115f33b02b76e4fb6c9b2ad43c94c8ca",
+   "pkgpath": "Data/0000000000000000f000000000000000",
+   "size": 13016,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/0000000000000000f000000000000000"
+  },
+  {
+   "compression": 8,
+   "hash": "ba6f914ba2e081cf33fb1df03a9abd49b9d1b9ec",
+   "pkgpath": "Data/0adce3c87598d6444bd095f123e5cfbf",
+   "size": 7376,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/0adce3c87598d6444bd095f123e5cfbf"
+  },
+  {
+   "compression": 8,
+   "hash": "7d0737b0226befc29b965344086919ed180960a4",
+   "pkgpath": "Data/1c6c94e6f0b33b84794b532ebc14e8a3",
+   "size": 4244,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/1c6c94e6f0b33b84794b532ebc14e8a3"
+  },
+  {
+   "compression": 8,
+   "hash": "30ffd587c92ed09e8be0f7a0e048b9aa454e449a",
+   "pkgpath": "Data/1c6c94e6f0b33b84794b532ebc14e8a3.resS",
+   "size": 349552,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/1c6c94e6f0b33b84794b532ebc14e8a3.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "63d355fb27e9cc703ba1e79deea3156c92f9d4e9",
+   "pkgpath": "Data/3cedd75ba729c3847bddf7bb13f31a5b",
+   "size": 4244,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/3cedd75ba729c3847bddf7bb13f31a5b"
+  },
+  {
+   "compression": 8,
+   "hash": "92ae6f584eb7f966c429225b7161f015ab2cdd20",
+   "pkgpath": "Data/3cedd75ba729c3847bddf7bb13f31a5b.resS",
+   "size": 349552,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/3cedd75ba729c3847bddf7bb13f31a5b.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "60b97e95422f49c1edfd96a14f9406331af2b182",
+   "pkgpath": "Data/52ade5953df0f7b48a2ffbce262817de",
+   "size": 4272,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/52ade5953df0f7b48a2ffbce262817de"
+  },
+  {
+   "compression": 8,
+   "hash": "dc0d7cb47e27e3d680f43cd35f66d0f17dfa7fdd",
+   "pkgpath": "Data/603fae72aff7ce047b3328181ccdb189",
+   "size": 4288,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/603fae72aff7ce047b3328181ccdb189"
+  },
+  {
+   "compression": 8,
+   "hash": "16126a62696f5f7e1092a976ee3ebfd7664dac2f",
+   "pkgpath": "Data/6cbf8ff303d34df44b45c5624d244052",
+   "size": 4224,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/6cbf8ff303d34df44b45c5624d244052"
+  },
+  {
+   "compression": 8,
+   "hash": "3d5b84d2bb2a23f34fa855897799581da11944d1",
+   "pkgpath": "Data/6db7bfac3a973f84bbccc95d60c5dc34",
+   "size": 4192,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/6db7bfac3a973f84bbccc95d60c5dc34"
+  },
+  {
+   "compression": 8,
+   "hash": "b620310f69daa51aa5ee6c91263cf0d835b25a3c",
+   "pkgpath": "Data/84f04ba86cd824249bb1c2029be83101",
+   "size": 7500,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/84f04ba86cd824249bb1c2029be83101"
+  },
+  {
+   "compression": 8,
+   "hash": "f77f06455fdb242ac19924f785e66318faac2e7d",
+   "pkgpath": "Data/938152868a4b95549b1f1bbd0253ac42",
+   "size": 4160,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/938152868a4b95549b1f1bbd0253ac42"
+  },
+  {
+   "compression": 8,
+   "hash": "313060bc4e2180051ebc6cd5100d7f0d692d724b",
+   "pkgpath": "Data/958f4a2eb8ded00429391a9816f6415f",
+   "size": 4244,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/958f4a2eb8ded00429391a9816f6415f"
+  },
+  {
+   "compression": 8,
+   "hash": "62dbe35d4d8be8c1371510b0bf442c21fee3bf38",
+   "pkgpath": "Data/958f4a2eb8ded00429391a9816f6415f.resS",
+   "size": 174776,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/958f4a2eb8ded00429391a9816f6415f.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "2aaaf962342c8a58b3ffc15248e1fb67b014e7bb",
+   "pkgpath": "Data/99ab5b57a637bdb4192babafc1298bee",
+   "size": 6932,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/99ab5b57a637bdb4192babafc1298bee"
+  },
+  {
+   "compression": 8,
+   "hash": "3693be9d200761016e79a387f0dc39bfbc990744",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 2918516,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "0ace830123f06ef1a670288eba2b999e23bbc298",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 37207096,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\unityProjects\\MagicLeapHaloProject\\Licence\\magicleaphaloproject.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "f2a1a63f4ae4d980282de4c5214a9f06f010c0b1",
+   "xfrm_path": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/.out/.cache/debug_lumin_clang-3.8_aarch64/com.company.productname-b454d214493273af\\libil2cpp.so-bc9345a6aa427147",
+   "xfrm_size": 37207854
+  },
+  {
+   "compression": 8,
+   "hash": "aed32544e1ea67c511396569fcb89b586b15d839",
+   "pkgpath": "bin/UnityEngine.SpatialTracking.dll",
+   "size": 9216,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "715f293d231a26472ba1672c3e59f76cb0e5e364",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 65536,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "d93ff7b64d92abd6dbb8419c3348ab5f56ad5ec5",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 728232,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\unityProjects\\MagicLeapHaloProject\\Licence\\magicleaphaloproject.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "cca1c580c699a463481645ddc8532b528b3f25a0",
+   "xfrm_path": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/.out/.cache/debug_lumin_clang-3.8_aarch64/com.company.productname-b454d214493273af\\UnityMagicLeap.so-488a3327892276e4",
+   "xfrm_size": 728990
+  },
+  {
+   "compression": 8,
+   "hash": "5629c7ff5fb59ddc72778d4b9d3dbadcde480998",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 328192,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "dc1423ee40a78f4701880b37e1f07bc4f3500e9d",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3308004,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "3f0de7b868ec59b5b4e4dd84a1c7a39dc4ce4248",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 413724,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "9bbb5e3aae616602db933abd34140e11132fccea",
+   "pkgpath": "Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json",
+   "size": 438,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "2f66daf37497f0b3ea5e3c4707b237bd1875cb81",
+   "pkgpath": "Data/boot.config",
+   "size": 213,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "1409a133534b1cf2809f25f77b1dcae8c5ad4dbd",
+   "pkgpath": "Data/c31e9d985a7477641845983a9e3f2dd5",
+   "size": 4160,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/c31e9d985a7477641845983a9e3f2dd5"
+  },
+  {
+   "compression": 8,
+   "hash": "499e7eee6589b9d6f5009655b16d30767d4fbad1",
+   "pkgpath": "Data/c59eb027aca1897448cd55f6fcb6e88f",
+   "size": 8264,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/c59eb027aca1897448cd55f6fcb6e88f"
+  },
+  {
+   "compression": 8,
+   "hash": "517fec104c9945462d049fde66fb0d84614fd34d",
+   "pkgpath": "Data/ff383952e5ab4984fa6d78dc45f912ca",
+   "size": 4240,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/ff383952e5ab4984fa6d78dc45f912ca"
+  },
+  {
+   "compression": 8,
+   "hash": "b68c22f8201c8d16209109542d479041979e165d",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 34616,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "b01da81a8f00af468b1aca4c4aaaa44a402e8d46",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 38668,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "a64ab680a16472f9b437cb5a8ff36b79890e23ae",
+   "pkgpath": "Data/level0",
+   "size": 39412,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "d688528f28e3938a6d7ef5091ec15e118986788b",
+   "pkgpath": "Data/level0.resS",
+   "size": 174976,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "98646368193e563be666703ca2f01796bb6dfe09",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 446932,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "81caba6a0c4aa76dc8a2285c5f9d74bfc87f63cc",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 174776,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "d87467a510122a25b96fc8c9cdf23e9da9d2c103",
+   "pkgpath": "bin/Player.elf",
+   "size": 30973856,
+   "src": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\unityProjects\\MagicLeapHaloProject\\Licence\\magicleaphaloproject.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "ad9822d581ab57bef89efc09878eaba1313c2423",
+   "xfrm_path": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/.out/.cache/debug_lumin_clang-3.8_aarch64/com.company.productname-b454d214493273af\\Player.elf-e6d3641171d35896",
+   "xfrm_size": 30974614
+  },
+  {
+   "compression": 8,
+   "hash": "6591768628b47d21518af76fe1465ae4a33d2c4f",
+   "pkgpath": "manifest.xml",
+   "size": 544,
+   "src": "C:\\unityProjects\\MagicLeapHaloProject\\MLHaloProject\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "791c6ceb447b8f82e5c79ea8295fdc95591301e6",
+     "developer_id": "8febbf58-8af0-4880-8514-688c1abf98cc"
+    }
+   },
+   "xfrm_hash": "8a7e21516f30279954b3b1c040fce23a9867a10b",
+   "xfrm_path": "C:/unityProjects/MagicLeapHaloProject/MLHaloProject/.out/.cache/debug_lumin_clang-3.8_aarch64/com.company.productname-b454d214493273af\\manifest.xml-e6d3641171d35896",
+   "xfrm_size": 556
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\unityProjects\\MagicLeapHaloProject\\Licence\\magicleaphaloproject.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "C:\\unityProjects\\MagicLeapHaloProject\\Licence\\magicleaphaloproject.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
