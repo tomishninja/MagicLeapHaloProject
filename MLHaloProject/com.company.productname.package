@@ -1,8 +1,13 @@
 ######### DO NOT EDIT BELOW #########
 
 
+
+######### DO NOT EDIT ABOVE #########
+######### DO NOT EDIT BELOW #########
+
+
 USES = \
-	C:\unityProjects\MagicLeapHaloProject\MLHaloProject\Temp/StagingArea\assets \
+	C:\unityProjects\MagicLeapHaloProject\MagicLeapHaloProject\MLHaloProject\Temp/StagingArea\assets \
 
 
 ######### DO NOT EDIT ABOVE #########
